@@ -1,7 +1,7 @@
 # Example of deploying to Windows-container in Docker
 ## Where is Docker image?
 It is here:
-https://github.com/jmistx/aspnet-mock-example
+https://github.com/dodopizza/aspnet-mock-example
 
 ## Warranty
 There are no production-ready solutions here. 
