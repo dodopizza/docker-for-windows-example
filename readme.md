@@ -1,8 +1,10 @@
 # Example of deploying to Windows-container in Docker
 ## Quickstart
+Try to run:
 ```
 powershell .\_test_single_deploy.ps1
 ```
+Then play with code.
 
 ## Where is Docker image?
 It is here:
