@@ -1,4 +1,9 @@
 # Example of deploying to Windows-container in Docker
+## Quickstart
+```
+powershell .\_test_single_deploy.ps1
+```
+
 ## Where is Docker image?
 It is here:
 https://github.com/dodopizza/aspnet-mock-example
