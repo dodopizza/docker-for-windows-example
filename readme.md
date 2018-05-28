@@ -4,7 +4,10 @@ Try to run:
 ```
 powershell .\_test_single_deploy.ps1
 ```
+Windows containers are huge. It may consume about 12Gb of storage.
+
 Then play with code.
+
 
 ## Where is Docker image?
 It is here:
