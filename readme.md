@@ -19,4 +19,5 @@ But you could start to develop your production deployment scripts from this exam
 
 ## License
 MIT (c) Dodo Pizza
+
 See LICENSE file
